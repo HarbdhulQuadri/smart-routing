@@ -1,0 +1,23 @@
+{
+    "name": "harbdulquadri/smart-routing",
+    "description": "a smart routing package",
+    "autoload": {
+        "psr-4": {
+            "Harbdulquadri\\SmartRouting\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "harbdhulquadri",
+            "email": "adegbijilanre@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "pestphp/pest": "*"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
