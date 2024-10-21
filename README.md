@@ -19,7 +19,7 @@ Smart Payment Router is a Laravel package that provides intelligent payment rout
 You can install the package via composer:
 
 ```bash
-composer require codehunter/smart-payment-router
+composer require harbdhulquadri/smart-routing:dev-master
 ```
 
 ## Configuration
